@@ -375,7 +375,7 @@ button:hover {
     font-weight: 700;
 }
 
-.table {
+.tableg {
     margin-top: 24px;
 
 }
@@ -429,7 +429,7 @@ footer {
     justify-content: space-between;
 }
 
-.f-text {
+.foot-text {
     color: #0D1321;
     font-family: Azeret Mono;
     font-size: 20px;
@@ -439,7 +439,7 @@ footer {
     text-align: center;
 }
 
-.f-img {
+.f00t-img {
     display: flex;
     gap: 30px;
 }
